@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1>Hi there 👋! I'm Sergi Solís 👾</h1>
 
-<!--
-**SergiSolis/SergiSolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Computer Engineering Student 👨🏻‍💻 at <a href="https://www.upf.edu">Universitat Pompeu Fabra</a>.</br>
+</p>
 
-Here are some ideas to get you started:
+```javascript
+const aboutMe = {
+   code: [Javascript, HTML, CSS, Python, C, C++, Java],
+   technologies: {
+      frontEnd: {
+         js: ["VanillaJS", "JavaServer Pages"],
+         css: ["Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         java: ["Servlet"]
+      },
+      databases: ["mySQL"]
+   },
+};
+```
+<h2>💻 Some stats 💻</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sergi's github stats](https://github-readme-stats.vercel.app/api?username=SergiSolis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
